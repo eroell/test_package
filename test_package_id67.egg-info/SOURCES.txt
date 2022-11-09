@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+test_package_id67/Dogs.py
+test_package_id67/__init__.py
+test_package_id67.egg-info/PKG-INFO
+test_package_id67.egg-info/SOURCES.txt
+test_package_id67.egg-info/dependency_links.txt
+test_package_id67.egg-info/top_level.txt
